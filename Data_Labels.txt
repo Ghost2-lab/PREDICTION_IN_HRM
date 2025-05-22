@@ -1,0 +1,442 @@
+studyno: GESIS Data Archive Study Number
+version: GESIS Archive Version
+doi: Digital Object Identifier
+c_sample: Country/ Sample ISO 3166 Code (see country for codes for whole nation states)
+country: Country ISO 3166 Code (see c_sample for codes for the sample)
+c_alphan: Country Prefix ISO 3166
+v1: Q1a Job is a way of earning money
+v2: Q1b Enjoy a paid job even if I did not need money
+v3: Q2a Personally important: job security
+v4: Q2b Personally important: high income
+v5: Q2c Personally important: opportunities for advancement
+v6: Q2d Personally important: an interesting job
+v7: Q2e Personally important: work independently
+v8: Q2f Personally important: help other people
+v9: Q2g Personally important: a job useful to society
+v10: Q2h Personally important: decide time of work
+v11: Q2i Personally important: contact with other people
+v12: Q3 Give up job opportunities for benefit of family life
+v13: Q4 Remain in not satisfying job for benefit of family life
+v14: Q5 Past five years: discriminated against with regard to work
+v15: Q6 Reason for discrimination
+V16: Q7 Past five years: harassed at your job
+v17: Q8a Workers need trade unions
+v18: Q8b Strong trade unions bad for economy
+v19: Q9 Preference of pers work situation at present
+v20: Q10 Respondent currently working for pay
+v21: Q11 Preference: number of hours working - earning money
+v22: Q12a Apply to R's job: my job is secure
+v23: Q12b Apply to R's job: my income is high
+v24: Q12c Apply to R's job: opportunities for advancement are high
+v25: Q12d Apply to R's job: my job is interesting
+v26: Q12e Apply to R's job: can work independently
+v27: Q12f Apply to R's job: can help other people
+v28: Q12g Apply to R's job: job is useful to society
+v29: Q12h Apply to R's job: personal contact with other people
+v30: Q13a How often applies: Do hard physical work
+v31: Q13b How often applies: find work stressful
+v32: Q14a And how often applies: work at home during working hours
+v33: Q14b And how often applies: involve working on weekends
+v34: Q15 Best describes the working hours conditions
+v35: Q16 Best describes the usual working schedule
+v36: Q17 Best describes the organization of daily work
+v37: Q18 How difficult: take time off during working hours
+v38: Q19a How often: demands of job interfere with family life
+v39: Q19b How often: family life interferes with job
+v40: Q20 How much use of past work experience and skills
+v41: Q21 Training to improve job skills over past 12 months
+v42: Q22a Relations: between management and employees
+v43: Q22b Relations: between workmates/ colleagues?
+v44: Q23 How satisfied are you in your (main) job
+v45: Q24a Willing to work harder to help firm succeed
+v46: Q24b Proud to be working for my firm
+v47: Q24c I would turn down another job to stay
+v48: Q25a I would change type of work
+v49: Q25b I am proud of the type of work I do
+v50: Q26 Easy or difficult to find a good job as the current
+v51: Q27 How likely: try to find a job within next 12 months
+v52: Q28 Extent to worry about the possibility of losing job
+v53: Q29a Avoid unemployment: accept job that requires new skills
+v54: Q29b Avoid unemployment: accept lower position with lower pay
+v55: Q29c Avoid unemployment: accept temporary employment
+v56: Q29d Avoid unemployment: travel longer to get to work
+v57: Q29e Avoid unemployment: move within [country]
+v58: Q29f Avoid unemployment: to move to a different country
+v59: Q30 Past 12 months: additional work for pay
+v60: Q31 Past 12 months: earnings from additional work
+v61: Q32 Not currently working: had paid job for 1 year or more
+v62: Q33a Not currently working: end (year) of last paid job
+v63: Q33b Not currently working: end (month) of last paid job
+v64: Q34 How satisfied in last job
+v65: Q35 Not currently working: main reason for job end
+v66: Q36 Not working: like to have a paid job now or in future
+v67: Q37 Not working: how likely to find a job
+v68: Q38 Not working: worry about possibility not finding a job
+v69: Q39a In order to get a job: accept job that requires new skills
+v70: Q39b In order to get a job: accept position with low pay
+v71: Q39c In order to get a job: accept temporary employment
+v72: Q39d In order to get a job: travel a long time to get to work
+v73: Q39e In order to get a job: move within [country]
+v74: Q39f In order to get a job: move to a different country
+v75: Q40a Not working: registered at a public agency
+v76: Q40b Not working: registered at a private agency
+v77: Q40c Not working: answered job advertisement
+v78: Q40d Not working: advertised on the internet or in newspapers
+v79: Q40e Not working: applied directly to employers
+v80: Q40f Not working: asked relatives, friends
+v81: Q41 Not working: past 12 months training to improve job skills
+v82: Q42 Not working: Resp currently looking for a job
+v83: Q43 Not working: main source of economic support
+v84: Q44 Not working: worry about losing main economic support
+v85: Q45 Age of youngest child in household
+v86: O1 Ever worked for pay in past five years
+v87: O2a Past five years: unemployed longer than three months
+v88: O2b Past five years: changed my employer
+v89: O2c Past five years: changed my occupation
+v90: O2d Past five years: started own business/ self-employed
+v91: O2e Past five years: took up additional job
+v92: O3 Self-assessed current financial situation
+v93: O4 Change of financial situation compared to past five years
+v94: O5 Change of financial situation compared to future five years
+v95: O6a Senior citizens' work: good for country
+v96: O6b Senior citizens' work: take jobs away from younger people
+v97: O7 Subjective health
+SEX: Sex of Respondent
+BIRTH: Year of birth
+AGE: Age of respondent
+DK_AGE: Age of respondent (Denmark)
+EDUCYRS: Education I: years of schooling
+AT_DEGR: Country specific highest completed degree of education: Austria
+AU_DEGR: Country specific highest completed degree of education: Australia
+BE_DEGR: Country specific highest completed degree of education: Belgium
+CH_DEGR: Country specific highest completed degree of education: Switzerland
+CL_DEGR: Country specific highest completed degree of education: Chile
+CN_DEGR: Country specific highest completed degree of education: China
+CZ_DEGR: Country specific highest completed degree of education: Czech Republic
+DE_DEGR: Country specific highest completed degree of education: Germany
+DK_DEGR: Country specific highest completed degree of education: Denmark
+EE_DEGR: Country specific highest completed degree of education: Estonia
+ES_DEGR: Country specific highest completed degree of education: Spain
+FI_DEGR: Country specific highest completed degree of education: Finland
+FR_DEGR: Country specific highest completed degree of education: France
+GB_DEGR: Country specific highest completed degree of education: Great Britain (GB-GBN)
+GE_DEGR: Country specific highest completed degree of education: Georgia
+HR_DEGR: Country specific highest completed degree of education: Croatia
+HU_DEGR: Country specific highest completed degree of education: Hungary
+IL_DEGR: Country specific highest completed degree of education: Israel
+IN_DEGR: Country specific highest completed degree of education: India
+IS_DEGR: Country specific highest completed degree of education: Iceland
+JP_DEGR: Country specific highest completed degree of education: Japan
+LT_DEGR: Country specific highest completed degree of education: Lithuania
+LV_DEGR: Country specific highest completed degree of education: Latvia
+MX_DEGR: Country specific highest completed degree of education: Mexico
+NO_DEGR: Country specific highest completed degree of education: Norway
+NZ_DEGR: Country specific highest completed degree of education: New Zealand
+PH_DEGR: Country specific highest completed degree of education: Philippines
+PL_DEGR: Country specific highest completed degree of education: Poland
+RU_DEGR: Country specific highest completed degree of education: Russia
+SE_DEGR: Country specific highest completed degree of education: Sweden
+SI_DEGR: Country specific highest completed degree of education: Slovenia
+SK_DEGR: Country specific highest completed degree of education: Slovak Republic
+SR_DEGR: Country specific highest completed degree of education: Suriname
+TW_DEGR: Country specific highest completed degree of education: Taiwan
+US_DEGR: Country specific highest completed degree of education: United States
+VE_DEGR: Country specific highest completed degree of education: Venezuela
+ZA_DEGR: Country specific highest completed degree of education: South Africa
+DEGREE: Highest completed education level: Categories for international comparison
+WORK: Currently, formerly, or never in paid work
+WRKHRS: Hours worked weekly
+EMPREL: Employment relationship
+NEMPLOY: Self-employed: how many employees
+WRKSUP: Supervise other employees
+NSUP: Number of other employees supervised
+TYPORG1: Type of organisation, for-profit/ non-profit
+TYPORG2: Type of organisation, public/ private
+ISCO08: Occupation ISCO/ ILO 2008
+MAINSTAT: Main status
+PARTLIV: Living in steady partnership
+SPWORK: Spouse, partner: currently, formerly or never in paid work
+SPWRKHRS: Spouse, partner: hours worked weekly
+SPEMPREL: Spouse, partner: employment relationship
+SPWRKSUP: Spouse, partner: supervise other employees
+SPISCO08: Spouse, partner: occupation ISCO/ ILO 2008
+SPMAINST: Spouse, partner: main status
+UNION: Trade union membership
+AT_RELIG: Country specific religious affiliation or denomination: Austria
+AU_RELIG: Country specific religious affiliation or denomination: Australia
+BE_RELIG: Country specific religious affiliation or denomination: Belgium
+CH_RELIG: Country specific religious affiliation or denomination: Switzerland
+CL_RELIG: Country specific religious affiliation or denomination: Chile
+CN_RELIG: Country specific religious affiliation or denomination: China
+CZ_RELIG: Country specific religious affiliation or denomination: Czech Republic
+DE_RELIG: Country specific religious affiliation or denomination: Germany
+DK_RELIG: Country specific religious affiliation or denomination: Denmark
+EE_RELIG: Country specific religious affiliation or denomination: Estonia
+ES_RELIG: Country specific religious affiliation or denomination: Spain
+FI_RELIG: Country specific religious affiliation or denomination: Finland
+FR_RELIG: Country specific religious affiliation or denomination: France
+GB_RELIG: Country specific religious affiliation or denomination: Great Britain (GB-GBN)
+GE_RELIG: Country specific religious affiliation or denomination: Georgia
+HR_RELIG: Country specific religious affiliation or denomination: Croatia
+HU_RELIG: Country specific religious affiliation or denomination: Hungary
+IL_RELIG: Country specific religious affiliation or denomination: Israel
+IN_RELIG: Country specific religious affiliation or denomination: India
+IS_RELIG: Country specific religious affiliation or denomination: Iceland
+JP_RELIG: Country specific religious affiliation or denomination: Japan
+LT_RELIG: Country specific religious affiliation or denomination: Lithuania
+LV_RELIG: Country specific religious affiliation or denomination: Latvia
+MX_RELIG: Country specific religious affiliation or denomination: Mexico
+NO_RELIG: Country specific religious affiliation or denomination: Norway
+NZ_RELIG: Country specific religious affiliation or denomination: New Zealand
+PH_RELIG: Country specific religious affiliation or denomination: Philippines
+PL_RELIG: Country specific religious affiliation or denomination: Poland
+RU_RELIG: Country specific religious affiliation or denomination: Russia
+SE_RELIG: Country specific religious affiliation or denomination: Sweden
+SI_RELIG: Country specific religious affiliation or denomination: Slovenia
+SK_RELIG: Country specific religious affiliation or denomination: Slovak Republic
+SR_RELIG: Country specific religious affiliation or denomination: Suriname
+TW_RELIG: Country specific religious affiliation or denomination: Taiwan
+US_RELIG: Country specific religious affiliation or denomination: United States
+VE_RELIG: Country specific religious affiliation or denomination: Venezuela
+ZA_RELIG: Country specific religious affiliation or denomination: South Africa
+RELIGGRP: Groups of religious affiliations (derived from nat_RELIG)
+ATTEND: Attendance of religious services
+TOPBOT: Top-Bottom self-placement
+VOTE_LE: Did respondent vote in last general election
+AT_PRTY: Country specific party voted for in last general election: Austria
+AU_PRTY: Country specific party voted for in last general election: Australia
+BE_PRTY: Country specific party voted for in last general election: Belgium
+CH_PRTY: Country specific party voted for in last general election: Switzerland
+CL_PRTY: Country specific party voted for in last general election: Chile
+CN_PRTY: Country specific party voted for in last general election: China
+CZ_PRTY: Country specific party voted for in last general election: Czech Republic
+DE_PRTY: Country specific party voted for in last general election: Germany
+DK_PRTY: Country specific party voted for in last general election: Denmark
+EE_PRTY: Country specific party voted for in last general election: Estonia
+ES_PRTY: Country specific party voted for in last general election: Spain
+FI_PRTY: Country specific party voted for in last general election: Finland
+FR_PRTY: Country specific party voted for in last general election: France
+GB_PRTY: Country specific party voted for in last general election: Great Britain (GB-GBN)
+GE_PRTY: Country specific party voted for in last general election: Georgia
+HR_PRTY: Country specific party voted for in last general election: Croatia
+HU_PRTY: Country specific party voted for in last general election: Hungary
+IL_PRTY: Country specific party voted for in last general election: Israel
+IN_PRTY: Country specific party voted for in last general election: India
+IS_PRTY: Country specific party voted for in last general election: Iceland
+JP_PRTY: Country specific party voted for in last general election: Japan
+LT_PRTY: Country specific party voted for in last general election: Lithuania
+LV_PRTY: Country specific party voted for in last general election: Latvia
+MX_PRTY: Country specific party voted for in last general election: Mexico
+NO_PRTY: Country specific party voted for in last general election: Norway
+NZ_PRTY: Country specific party voted for in last general election: New Zealand
+PH_PRTY: Country specific party voted for in last general election: Philippines
+PL_PRTY: Country specific party voted for in last general election: Poland
+RU_PRTY: Country specific party voted for in last general election: Russia
+SE_PRTY: Country specific party voted for in last general election: Sweden
+SI_PRTY: Country specific party voted for in last general election: Slovenia
+SK_PRTY: Country specific party voted for in last general election: Slovak Republic
+SR_PRTY: Country specific party voted for in last general election: Suriname
+TW_PRTY: Country specific party voted for in last general election: Taiwan
+US_PRTY: Country specific party voted for in last general election: United States
+VE_PRTY: Country specific party voted for in last general election: Venezuela
+ZA_PRTY: Country specific party voted for in last general election: South Africa
+PARTY_LR: R: Party voted for in last general election: left-right (derived from nat_PRTY)
+AT_ETHN1: Country specific ethnic group 1: Austria
+AT_ETHN2: Country specific ethnic group 2: Austria
+AU_ETHN1: Country specific ethnic group 1: Australia
+AU_ETHN2: Country specific ethnic group 2: Australia
+BE_ETHN1: Country specific ethnic group 1: Belgium
+BE_ETHN2: Country specific ethnic group 2: Belgium
+CH_ETHN1: Country specific ethnic group 1: Switzerland
+CH_ETHN2: Country specific ethnic group 2: Switzerland
+CL_ETHN1: Country specific ethnic group 1: Chile
+CL_ETHN2: Country specific ethnic group 2: Chile
+CN_ETHN1: Country specific ethnic group 1: China
+CN_ETHN2: Country specific ethnic group 2: China
+CZ_ETHN1: Country specific ethnic group 1: Czech Republic
+CZ_ETHN2: Country specific ethnic group 2: Czech Republic
+DE_ETHN1: Country specific ethnic group 1: Germany
+DE_ETHN2: Country specific ethnic group 2: Germany
+DK_ETHN1: Country specific ethnic group 1: Denmark
+DK_ETHN2: Country specific ethnic group 2: Denmark
+EE_ETHN1: Country specific ethnic group 1: Estonia
+EE_ETHN2: Country specific ethnic group 2: Estonia
+ES_ETHN1: Country specific ethnic group 1: Spain
+ES_ETHN2: Country specific ethnic group 2: Spain
+FI_ETHN1: Country specific ethnic group 1: Finland
+FI_ETHN2: Country specific ethnic group 2: Finland
+FR_ETHN1: Country specific ethnic group 1: France
+FR_ETHN2: Country specific ethnic group 2: France
+GB_ETHN1: Country specific ethnic group 1: Great Britain (GB-GBN)
+GB_ETHN2: Country specific ethnic group 2: Great Britain (GB-GBN)
+GE_ETHN1: Country specific ethnic group 1: Georgia
+GE_ETHN2: Country specific ethnic group 2: Georgia
+HR_ETHN1: Country specific ethnic group 1: Croatia
+HR_ETHN2: Country specific ethnic group 2: Croatia
+HU_ETHN1: Country specific ethnic group 1: Hungary
+HU_ETHN2: Country specific ethnic group 2: Hungary
+IL_ETHN1: Country specific ethnic group 1: Israel
+IL_ETHN2: Country specific ethnic group 2: Israel
+IN_ETHN1: Country specific ethnic group 1: India
+IN_ETHN2: Country specific ethnic group 2: India
+IS_ETHN1: Country specific ethnic group 1: Iceland
+IS_ETHN2: Country specific ethnic group 2: Iceland
+JP_ETHN1: Country specific ethnic group 1: Japan
+JP_ETHN2: Country specific ethnic group 2: Japan
+LT_ETHN1: Country specific ethnic group 1: Lithuania
+LT_ETHN2: Country specific ethnic group 2: Lithuania
+LV_ETHN1: Country specific ethnic group 1: Latvia
+LV_ETHN2: Country specific ethnic group 2: Latvia
+MX_ETHN1: Country specific ethnic group 1: Mexico
+MX_ETHN2: Country specific ethnic group 2: Mexico
+NO_ETHN1: Country specific ethnic group 1: Norway
+NO_ETHN2: Country specific ethnic group 2: Norway
+NZ_ETHN1: Country specific ethnic group 1: New Zealand
+NZ_ETHN2: Country specific ethnic group 2: New Zealand
+PH_ETHN1: Country specific ethnic group 1: Philippines
+PH_ETHN2: Country specific ethnic group 2: Philippines
+PL_ETHN1: Country specific ethnic group 1: Poland
+PL_ETHN2: Country specific ethnic group 2: Poland
+RU_ETHN1: Country specific ethnic group 1: Russia
+RU_ETHN2: Country specific ethnic group 2: Russia
+SE_ETHN1: Country specific ethnic group 1: Sweden
+SE_ETHN2: Country specific ethnic group 2: Sweden
+SI_ETHN1: Country specific ethnic group 1: Slovenia
+SI_ETHN2: Country specific ethnic group 2: Slovenia
+SK_ETHN1: Country specific ethnic group 1: Slovak Republic
+SK_ETHN2: Country specific ethnic group 2: Slovak Republic
+SR_ETHN1: Country specific ethnic group 1: Suriname
+SR_ETHN2: Country specific ethnic group 2: Suriname
+TW_ETHN1: Country specific ethnic group 1: Taiwan
+TW_ETHN2: Country specific ethnic group 2: Taiwan
+US_ETHN1: Country specific ethnic group 1: United States
+US_ETHN2: Country specific ethnic group 2: United States
+VE_ETHN1: Country specific ethnic group 1: Venezuela
+VE_ETHN2: Country specific ethnic group 2: Venezuela
+ZA_ETHN1: Country specific ethnic group 1: South Africa
+ZA_ETHN2: Country specific ethnic group 2: South Africa
+HOMPOP: How many persons in household
+HHCHILDR: How many children in household: children between [school age] and 17 years of age
+HHTODD: How many toddlers in household: children up to [school age -1] years
+AT_RINC: Country specific personal income: Austria
+AU_RINC: Country specific personal income: Australia
+BE_RINC: Country specific personal income: Belgium
+CH_RINC: Country specific personal income: Switzerland
+CL_RINC: Country specific personal income: Chile
+CN_RINC: Country specific personal income: China
+CZ_RINC: Country specific personal income: Czech Republic
+DE_RINC: Country specific personal income: Germany
+DK_RINC: Country specific personal income: Denmark
+EE_RINC: Country specific personal income: Estonia
+ES_RINC: Country specific personal income: Spain
+FI_RINC: Country specific personal income: Finland
+FR_RINC: Country specific personal income: France
+GB_RINC: Country specific personal income: Great Britain (GB-GBN)
+GE_RINC: Country specific personal income: Georgia
+HR_RINC: Country specific personal income: Croatia
+HU_RINC: Country specific personal income: Hungary
+IL_RINC: Country specific personal income: Israel
+IN_RINC: Country specific personal income: India
+IS_RINC: Country specific personal income: Iceland
+JP_RINC: Country specific personal income: Japan
+LT_RINC: Country specific personal income: Lithuania
+LV_RINC: Country specific personal income: Latvia
+MX_RINC: Country specific personal income: Mexico
+NO_RINC: Country specific personal income: Norway
+NZ_RINC: Country specific personal income: New Zealand
+PH_RINC: Country specific personal income: Philippines
+PL_RINC: Country specific personal income: Poland
+RU_RINC: Country specific personal income: Russia
+SE_RINC: Country specific personal income: Sweden
+SI_RINC: Country specific personal income: Slovenia
+SK_RINC: Country specific personal income: Slovak Republic
+SR_RINC: Country specific personal income: Suriname
+TW_RINC: Country specific personal income: Taiwan
+US_RINC: Country specific personal income: United States
+VE_RINC: Country specific personal income: Venezuela
+ZA_RINC: Country specific personal income: South Africa
+AT_INC: Country specific household income: Austria
+AU_INC: Country specific household income: Australia
+BE_INC: Country specific household income: Belgium
+CH_INC: Country specific household income: Switzerland
+CL_INC: Country specific household income: Chile
+CN_INC: Country specific household income: China
+CZ_INC: Country specific household income: Czech Republic
+DE_INC: Country specific household income: Germany
+DK_INC: Country specific household income: Denmark
+EE_INC: Country specific household income: Estonia
+ES_INC: Country specific household income: Spain
+FI_INC: Country specific household income: Finland
+FR_INC: Country specific household income: France
+GB_INC: Country specific household income: Great Britain (GB-GBN)
+GE_INC: Country specific household income: Georgia
+HR_INC: Country specific household income: Croatia
+HU_INC: Country specific household income: Hungary
+IL_INC: Country specific household income: Israel
+IN_INC: Country specific household income: India
+IS_INC: Country specific household income: Iceland
+JP_INC: Country specific household income: Japan
+LT_INC: Country specific household income: Lithuania
+LV_INC: Country specific household income: Latvia
+MX_INC: Country specific household income: Mexico
+NO_INC: Country specific household income: Norway
+NZ_INC: Country specific household income: New Zealand
+PH_INC: Country specific household income: Philippines
+PL_INC: Country specific household income: Poland
+RU_INC: Country specific household income: Russia
+SE_INC: Country specific household income: Sweden
+SI_INC: Country specific household income: Slovenia
+SK_INC: Country specific household income: Slovak Republic
+SR_INC: Country specific household income: Suriname
+TW_INC: Country specific household income: Taiwan
+US_INC: Country specific household income: United States
+VE_INC: Country specific household income: Venezuela
+ZA_INC: Country specific household income: South Africa
+MARITAL: Legal partnership status
+F_BORN: Father's country of birth
+M_BORN: Mother's country of birth
+URBRURAL: Place of living: urban - rural
+AT_REG: Country specific region: Austria
+AU_REG: Country specific region: Australia
+BE_REG: Country specific region: Belgium
+CH_REG: Country specific region: Switzerland
+CL_REG: Country specific region: Chile
+CN_REG: Country specific region: China
+CZ_REG: Country specific region: Czech Republic
+DE_REG: Country specific region: Germany
+DK_REG: Country specific region: Denmark
+EE_REG: Country specific region: Estonia
+ES_REG: Country specific region: Spain
+FI_REG: Country specific region: Finland
+FR_REG: Country specific region: France
+GB_REG: Country specific region: Great Britain (GB-GBN)
+GE_REG: Country specific region: Georgia
+HR_REG: Country specific region: Croatia
+HU_REG: Country specific region: Hungary
+IL_REG: Country specific region: Israel
+IN_REG: Country specific region: India
+IS_REG: Country specific region: Iceland
+JP_REG: Country specific region: Japan
+LT_REG: Country specific region: Lithuania
+LV_REG: Country specific region: Latvia
+MX_REG: Country specific region: Mexico
+NO_REG: Country specific region: Norway
+NZ_REG: Country specific region: New Zealand
+PH_REG: Country specific region: Philippines
+PL_REG: Country specific region: Poland
+RU_REG: Country specific region: Russia
+SE_REG: Country specific region: Sweden
+SI_REG: Country specific region: Slovenia
+SK_REG: Country specific region: Slovak Republic
+SR_REG: Country specific region: Suriname
+TW_REG: Country specific region: Taiwan
+US_REG: Country specific region: United States
+VE_REG: Country specific region: Venezuela
+ZA_REG: Country specific region: South Africa
+CASEID: ID Number of Respondent
+SUBSCASE: Case substitution flag
+DATEYR: Date of interview: year of interview; YYYY (four digits)
+DATEMO: Date of interview: month of interview: MM (two digits)
+DATEDY: Date of interview: day of interview: DD (two digits)
+WEIGHT: Weighting factor
+MODE: Administrative mode of data-collection
